@@ -1,0 +1,11 @@
+.parent {
+    border: 1px solid red;
+    height: 10px;
+}
+
+.child {
+    border: 1px solid red;
+
+    float: right;
+}
+
